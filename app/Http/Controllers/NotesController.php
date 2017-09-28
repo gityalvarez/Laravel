@@ -23,7 +23,7 @@ class NotesController extends Controller
 
     public function store()
     {
-    	return 'Creating a note';
+    	return 'Creating a note ahora en modo prueba';
     }
 
     public function show($note)
