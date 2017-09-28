@@ -10,9 +10,7 @@
 			<li>
 				{{$note->notes}}
 			</li>
-			<li>
-				{{$note->id}}
-			</li>
+			
 		@endforeach
 	</ul>	
 </body>
